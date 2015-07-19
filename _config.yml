@@ -1,0 +1,13 @@
+# Site settings
+title: Association Béguelins Béguelines
+email: dev@beguelins.net
+description: Site web de l'association Béguelins Béguelines.
+baseurl: ""
+url: "http://dev.beguelins.net"
+github_username:  beguelins
+
+# Build settings
+markdown: kramdown
+source: src
+encoding: utf-8
+timezone: Europe/Paris
