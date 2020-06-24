@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IL ETAIT UNE FOIS LANTENAY ET OUTRIAZ
+title: IL ÉTAIT UNE FOIS LANTENAY ET OUTRIAZ
 Date: 2011-11-08 10:43
 categories: HISTOIRE
 tag: il-etait-une-fois-lantenay-et-outriaz
