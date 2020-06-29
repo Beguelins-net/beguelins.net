@@ -2,7 +2,7 @@
 title: Association Béguelins Béguelines
 email: dev@beguelins.net
 description: Site web de l'association Béguelins Béguelines.
-baseurl: ""
+baseurl: "/"
 url: "http://dev.beguelins.net"
 github_username:  beguelins
 
