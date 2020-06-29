@@ -6,3 +6,4 @@ _site/
 src/_sass/*.css
 src/_sass/*.css.map
 *.css.map
+src/css/styles.css
