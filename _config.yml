@@ -11,3 +11,5 @@ markdown: kramdown
 source: src
 encoding: utf-8
 timezone: Europe/Paris
+
+theme: jekyll-theme-tactile
