@@ -6,18 +6,12 @@ categories: LE VILLAGE ET SON PATRIMOINE
 tag: petit-patrimoine
 ---
 
-![img244] 
+![vierge-du-mollard](/images/petit-patrimoine/vierge_du_mollard.jpg){:class="img-responsive"}
 
-![101_1536]
+![la-croix-vers-la-combe](/images/petit-patrimoine/la_croix_vers_la_combe.jpg){:class="img-responsive"}
 
-![100_1155]
+![horloge-face-sud](/images/petit-patrimoine/horloge_face_sud.jpg){:class="img-responsive"}
 
-![100_1158]
+![le-coq](/images/petit-patrimoine/le_coq.jpg){:class="img-responsive"}
 
-![Le]
-  
-[img244]: /images/petitpatrimoine/img244_2.jpg
-[101_1536]: /images/petitpatrimoine/101_1536_1.jpg
-[100_1155]: /images/petitpatrimoine/100_1155_1.jpg
-[100_1158]: /images/petitpatrimoine/100_1158_1.jpg
-[Le]: /images/petitpatrimoine/Le_pont_du_Terret_en_ete_2.jpg
+![le-pont-du-Terret-en-été](/images/petit-patrimoine/le_pont_du_Terret_en_ete.jpg){:class="img-responsive"}
