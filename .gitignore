@@ -3,3 +3,6 @@ _site/
 .sass-cache/
 .idea/
 *.iml
+src/_sass/*.css
+src/_sass/*.css.map
+*.css.map
